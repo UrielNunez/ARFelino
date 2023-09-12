@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f372c5a41016e7a46bffb0c5f74b6174, type: 3}
+  m_Name: Profile Data
+  m_EditorClassIdentifier: 
+  URL: https://www.instagram.com/grupos_lasalle/
+  urlType: 0
+  profileSprite: {fileID: 21300000, guid: 3b31dbf1ae2c1cd488db6e47ee518aa1, type: 3}
+  useProfileText: 1
+  profileText: Grupos La Salle
+  emailDirection: 
+  emailSubject: 
+  emailBody: 
